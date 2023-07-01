@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\bin\Debug\QLKTXSV.exe.config
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\bin\Debug\QLKTXSV.exe
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\bin\Debug\QLKTXSV.pdb
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.Form_Login.resources
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.Form2.resources
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.Form_SV.resources
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.Properties.Resources.resources
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.exe
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.pdb
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.Form_DienNuoc.resources
+C:\Users\Administrator\source\repos\QLKTXSV\QLKTXSV\obj\Debug\QLKTXSV.Form_Hop_dong.resources
